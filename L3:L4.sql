@@ -41,5 +41,3 @@ SELECT
 GROUP BY customer_id
 ORDER BY doplata DESC;
 
---4.4
-
